@@ -3,13 +3,17 @@
   import Counter from "./lib/index.svelte";
 </script>
 
-<main class="container max-w-full mx-auto px-4">
-  <div>
+<main>
+  <div class="">
     <!-- <a href="https://vitejs.dev" target="_blank">
       <img src="/vite.svg" class="logo" alt="Vite Logo" />
     </a> -->
     <a href="/" target="_blank">
-      <img src={YBA} class="logo svelte" alt="Your Bad Angel Logo" />
+      <img
+        src={YBA}
+        class="your bad angel womens clothing logo"
+        alt="Your Bad Angel Logo"
+      />
     </a>
   </div>
   <h1>Your Bad Angel</h1>

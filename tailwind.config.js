@@ -1,4 +1,5 @@
 module.exports = {
+  purge: ['./src/**/*.{js,jsx,ts,tsx}'],
   theme: {
     container: {
       center: true,
@@ -11,6 +12,9 @@ module.exports = {
       // 'body': ['"Open Sans"', ...],
     },
     screens: {
+      'mobile': '400px',
+      // => @media (min-width: 640px) { ... }
+
       'tablet': '640px',
       // => @media (min-width: 640px) { ... }
 
