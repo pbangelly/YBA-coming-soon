@@ -3,7 +3,7 @@
     novalidate=""
     accept-charset="UTF-8"
     method="post"
-    action="https://link.mail.tailwindapp.com/ngs/1194443/JGyUDqh1YLgaVaekS29Z/embedded"
+    action="https://link.mail.tailwindapp.com/ngs/1170539/aaIELYlJqzAHk94Msb7J/embedded"
   >
     <div class="form-group fb-header">
       <h1>Sign up today to find out when we open.</h1>
