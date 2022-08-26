@@ -1,10 +1,11 @@
 <script>
   import YBA from "./assets/your-bad-angel-logo.png";
   import Counter from "./lib/index.svelte";
+  // import Footer from "./comp/footer.svelte";
 </script>
 
-<main>
-  <div class="">
+<main class="container mx-auto">
+  <div>
     <!-- <a href="https://vitejs.dev" target="_blank">
       <img src="/vite.svg" class="logo" alt="Vite Logo" />
     </a> -->
@@ -23,6 +24,8 @@
   </div>
 
   <p class="read-the-docs">yourbadangel.com</p>
+
+  <!-- <Footer /> -->
 </main>
 
 <style>
@@ -34,9 +37,9 @@
   .logo:hover {
     filter: drop-shadow(0 0 2em #646cffaa);
   }
-  .logo.svelte:hover {
+  /* .logo.svelte:hover {
     filter: drop-shadow(0 0 2em #ff3e00aa);
-  }
+  } */
   .read-the-docs {
     color: rgb(75, 74, 74);
     text-transform: uppercase;

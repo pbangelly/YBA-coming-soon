@@ -48,7 +48,6 @@
     display: block;
     margin-bottom: 10px;
   }
-
   .form-group button {
     margin-top: 20px;
     background-color: #ce0014;
